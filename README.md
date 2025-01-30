@@ -1,1 +1,1 @@
-# Video-and-Text-Merge-Program
+This is a python program for merging videos.
